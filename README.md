@@ -1,15 +1,21 @@
-# Andrew Nguyen
-Welcome to my github! 👋
+<h1 align="center">Welcome to my github! 👋</h1>
 
 <p align="center">
   </p>
 
-I'm a Computer Science Master's student at **Northeastern University** with a passion for building and securing intelligent, automated systems. My focus lies at the intersection of **Cloud Computing, Machine Learning, and Network Automation**.
+<h3 align="center">My name is An Nguyen and I'm a Computer Science Master's student at Northeastern University with a passion for building and securing intelligent, automated systems. My focus lies at the intersection of Cloud Computing, Machine Learning, and Network Automation.</h3>
 
-**🚀 Exciting News!**
-This summer (2025), I'll be joining **Microsoft** as a **Cloud Network Engineer Intern**, where I'm eager to contribute to the Azure Core team's innovative networking projects.
+<p align="center">
+  <strong>🚀 Exciting News!</strong> This summer (2025), I'll be joining <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong>, where I'm eager to contribute to the Azure Core team's innovative networking projects.
+</p>
 
-My journey from biochemistry research and network engineering to advanced ML applications has equipped me to tackle complex challenges in today's tech landscape. I'm driven to leverage data and automation to create robust, efficient, and secure solutions.
+<p align="center">My journey from biochemistry research and network engineering to advanced ML applications has equipped me to tackle complex challenges in today's tech landscape. I'm driven to leverage data and automation to create robust, efficient, and secure solutions.</p>
+
+---
+
+- 🔭 I’m currently working on **llm-gamemaster: Enhanced version of llm-conquestfour**
+- 🌱 I’m currently learning more about **Advanced Networking, Applied ML (especially LLMs), and Cloud Native technologies (Azure, Kubernetes)**.
+- ⚡ Fun fact: **I love to read Psychology, Sociology, and Philosophy books in my free time.**
 
 ---
 
@@ -21,44 +27,96 @@ My journey from biochemistry research and network engineering to advanced ML app
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Languages and Tools
 
-* **Cloud Platforms:** `Azure Networking (Upcoming Prof. Experience)`, `AWS (Lambda, DynamoDB)`
-* **Networking:** `TCP/IP`, `VLANs`, `DHCP`, `OSPF/BGP (Familiar)`, `ACLs`, `Network Security`, `Network Automation`, `Splunk`, `Wireshark`, `NetFlow`
-* **Machine Learning:**
-    * `Frameworks/Libraries:` `PyTorch`, `Scikit-learn`, `TensorFlow`, `XGBoost`, `Pandas`, `NumPy`
-    * `NLP/LLMs:` `GPT-4`, `Mistral-7B`, `sBERT`, `OpenAI Whisper`, `Prompt Engineering`
-* **DevOps & MLOps:** `Git`, `Docker`, `Kubernetes`, `Jenkins`, `CI/CD Pipelines`, `Terraform (Learning)`
-* **Programming & Scripting:** `Python (Proficient)`, `Java (Proficient)`, `C++ (Familiar)`, `Bash`, `SQL`
-* **Databases:** `MongoDB`, `Postgres`, `Redis`, `MySQL`
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+   </p>
+<p align="left">
+  <strong>Other Key Skills:</strong> OSPF/BGP (Familiar), ACLs, Network Security, Splunk, Wireshark, NetFlow, LLMs (GPT-4, Mistral-7B), sBERT, OpenAI Whisper, Prompt Engineering, Terraform (Learning)
+</p>
 
 ---
 
 ### 💼 Experience Highlights
 
-* **Cloud Network Engineer Intern @ Microsoft (Upcoming - Summer 2025):** 
-* **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
+* **Cloud Network Engineer Intern @ Microsoft (Upcoming - Summer 2025):** * **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
     * Achieved high accuracy (90% gender, 98.7% ethnicity) in demographic prediction using GPT-4, XGBoost, LSTM models.
     * Improved LLM prediction accuracy by >10% via optimized prompt engineering and automated web crawlers.
 * **Network Engineer @ Vigitron Inc.:**
     * Reduced manual testing by 20% by automating L2/L3 network security validation pipelines (Splunk, Wireshark).
-    * Improved pre-emptive issue detection by 15% using Python/Bash scripts (Scikit-learn). 
+    * Improved pre-emptive issue detection by 15% using Python/Bash scripts (Scikit-learn).
 * **Data Intern @ San Diego State University (Dr. Alex Yao):**
-    * Enhanced recommendation model accuracy by 12% (PyTorch, MongoDB). 
-    * Scaled ML model deployment using AWS Lambda, Kubernetes; set up CI/CD pipelines (Jenkins, Docker). 
+    * Enhanced recommendation model accuracy by 12% (PyTorch, MongoDB).
+    * Scaled ML model deployment using AWS Lambda, Kubernetes; set up CI/CD pipelines (Jenkins, Docker).
 * **Machine Learning Researcher Intern @ UC San Diego (Gleeson Lab):**
-    * Streamlined bioinformatics data processing by 50% (Bash, C++, SQL). 
+    * Streamlined bioinformatics data processing by 50% (Bash, C++, SQL).
 
 ---
 
 ### 💡 Featured Projects
 
 * 🏆 **ConquestFour (On-Device AI Game) - *2nd Place, Qualcomm & Microsoft Hackathon***:
-    * LLM-powered (Mistral-7B quantized) Connect Four. Implemented Minimax, Z3 validation, OpenAI Whisper. 
-    * Optimized with NPU-acceleration, reducing processing delay by 60%. 
+    * LLM-powered (Mistral-7B quantized) Connect Four. Implemented Minimax, Z3 validation, OpenAI Whisper.
+    * Optimized with NPU-acceleration, reducing processing delay by 60%.
 * 🎶 **Semantic Sounds (Personalized Music Recommender):**
-    * Music recommender using SHAP, sBERT, HDBSCAN (Silhouette: 0.7464). 
-    * Preprocessed 60k+ Spotify entries; Flask/Ngrok demo. 
+    * Music recommender using SHAP, sBERT, HDBSCAN (Silhouette: 0.7464).
+    * Preprocessed 60k+ Spotify entries; Flask/Ngrok demo.
 
 ---
 
@@ -77,8 +135,14 @@ My journey from biochemistry research and network engineering to advanced ML app
 
 ---
 
-### 💬 Let's Connect!
+### 💬 Connect with me:
 
 I'm actively seeking full-time opportunities and internships until my graduation in Dec 2026 in Cloud Engineering, ML Engineering, or Network Automation roles. Let's discuss how I can contribute to your team!
-* 🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/an-q-nguyen/)
-* 📫 **Email:** aqnguyen96@gmail.com
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/an-q-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: an-q-nguyen" height="30" width="40" /></a>
+  &nbsp;&nbsp; <a href="mailto:aqnguyen96@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email: aqnguyen96@gmail.com" height="30" width="40" style="filter: invert(0.1) sepia(1) hue-rotate(200deg) saturate(5) brightness(0.9);" /></a> </p>
+
+<p align="left">
+  <strong>Email:</strong> aqnguyen96@gmail.com
+</p>
