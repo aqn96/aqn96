@@ -123,7 +123,8 @@
 
 ### 💼 Experience Highlights
 
-* **Cloud Network Engineer Intern @ Microsoft (Upcoming - Summer 2025):** * **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
+* **Cloud Network Engineer Intern @ Microsoft (Upcoming - Summer 2025):**
+* * **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
     * Achieved high accuracy (90% gender, 98.7% ethnicity) in demographic prediction using GPT-4, XGBoost, LSTM models.
     * Improved LLM prediction accuracy by >10% via optimized prompt engineering and automated web crawlers.
 * **Network Engineer @ Vigitron Inc.:**
