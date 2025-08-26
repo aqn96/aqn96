@@ -7,7 +7,7 @@
 
 <p align="center">
 <strong>🚀 Exciting News!</strong> 
-I recently wrapped up an incredible <strong>Summer 2025</strong>strong> internship at <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong> on the Azure Networking team.
+I recently wrapped up an incredible <strong>Summer 2025</strong> internship at <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong> on the Azure Networking team.
 
 I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in <strong>Fall 2025</strong> as a <strong>Cloud Machine Learning Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
 </p>
