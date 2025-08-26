@@ -6,9 +6,10 @@
 <h3 align="center">My name is An Nguyen and I'm a Computer Science Master's student at Northeastern University with a passion for building and securing intelligent, automated systems. My focus lies at the intersection of Cloud Computing, Machine Learning, and Network Automation.</h3>
 
 <p align="center">
-<strong>🚀 Exciting News!</strong> I recently wrapped up an incredible Summer 2025 internship at <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong> on the Azure Networking team.
+<strong>🚀 Exciting News!</strong> 
+I recently wrapped up an incredible <strong>Summer 2025<strong> internship at <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong> on the Azure Networking team.
 
-I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in Fall 2025 as a <strong>Cloud Machine Learning Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
+I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in <strong>Fall 2025<strong> as a <strong>Cloud Machine Learning Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
 </p>
 
 <p align="center">My journey from biochemistry research and network engineering to advanced ML applications has equipped me to tackle complex challenges in today's tech landscape. I'm driven to leverage data and automation to create robust, efficient, and secure solutions.</p>
