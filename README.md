@@ -9,7 +9,7 @@
 <strong>🚀 Exciting News!</strong> 
 I recently wrapped up an incredible <strong>Summer 2025</strong> internship at <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong> on the Azure Networking team.
 
-I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in <strong>Fall 2025</strong> as a <strong>Cloud Machine Learning Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
+I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in <strong>Fall 2025</strong> as a <strong>Cloud ML Engineer Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
 </p>
 
 <p align="center">My journey from biochemistry research and network engineering to advanced ML applications has equipped me to tackle complex challenges in today's tech landscape. I'm driven to leverage data and automation to create robust, efficient, and secure solutions.</p>
