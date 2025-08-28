@@ -16,7 +16,7 @@ I'm excited to announce that I'll be joining <strong>Centene Corporation</strong
 
 ---
 
-- 🔭 I’m currently working on **llm-gamemaster: Enhanced version of llm-conquestfour**
+- 🔭 I’m currently working on **Game AI - Learning more about C# and Unity**
 - 🌱 I’m currently learning more about **Advanced Networking, Applied ML (especially LLMs), and Cloud Native technologies (Azure, Kubernetes)**.
 - ⚡ Fun fact: **I love to read Psychology, Sociology, and Philosophy books in my free time.**
 
