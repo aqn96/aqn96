@@ -32,8 +32,11 @@ I'm excited to announce that I'll be joining <strong>Centene Corporation</strong
 
 ### 💼 Experience Highlights
 
-* **Cloud Network Engineer Intern @ Microsoft (Upcoming - Summer 2025):**
-* * **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
+* **Cloud Machine Learning Engineer Intern @ Centene Corporation (Currently Fall 2025):**
+* **Cloud Network Engineer Intern @ Microsoft (Summer 2025):**
+    * Engineered a system to automate configuration management achieving a 25% reduction in incident response time.
+    * Developed an automated YAML workflow to push configuration changes to devices effectively eliminating 90% of manual work.
+* **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
     * Achieved high accuracy (90% gender, 98.7% ethnicity) in demographic prediction using GPT-4, XGBoost, LSTM models.
     * Improved LLM prediction accuracy by >10% via optimized prompt engineering and automated web crawlers.
 * **Network Engineer @ Vigitron Inc.:**
