@@ -7,7 +7,7 @@
 
 <p align="center">
 <strong>🚀 Exciting News!</strong> 
-I recently wrapped up an incredible <strong>Summer 2025</strong> internship at <strong>Microsoft</strong> as a <strong>Cloud Network Engineer Intern</strong> on the Azure Networking team.
+I recently wrapped up an incredible <strong>Summer 2025</strong> internship at <strong>Microsoft</strong> as a <strong>Software Engineer Intern</strong> on the Azure Networking team.
 
 I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in <strong>Fall 2025</strong> as a <strong>Cloud ML Engineer Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
 </p>
@@ -33,7 +33,7 @@ I'm excited to announce that I'll be joining <strong>Centene Corporation</strong
 ### 💼 Experience Highlights
 
 * **Cloud Machine Learning Engineer Intern @ Centene Corporation (Currently Fall 2025):**
-* **Cloud Network Engineer Intern @ Microsoft (Summer 2025):**
+* **Software Engineer Intern @ Microsoft (Summer 2025):**
     * Engineered a system to automate configuration management achieving a 25% reduction in incident response time.
     * Developed an automated YAML workflow to push configuration changes to devices effectively eliminating 90% of manual work.
 * **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
