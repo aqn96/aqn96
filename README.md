@@ -1,91 +1,55 @@
-<h1 align="center">Welcome! 👋</h1>
+# Hi, I'm An Nguyen
 
-<p align="center">
-  </p>
+**Master's student in Computer Science @ Northeastern University**
 
-<h3 align="center">My name is An Nguyen and I'm a Computer Science Master's student at Northeastern University with a passion for building and securing intelligent, automated systems. My focus lies at the intersection of Cloud Computing, Machine Learning, and Network Automation.</h3>
+I'm passionate about the intersection of **networking and machine learning infrastructure** particularly in areas of distributed inference, model serving, and scalable AI systems. As a first-generation college student, my journey into tech has followed an unconventional path, transitioning from biochemistry to computer science.
 
-<p align="center">
-<strong>🚀 Exciting News!</strong> 
-I recently wrapped up an incredible <strong>Summer 2025</strong> internship at <strong>Microsoft</strong> as a <strong>Software Engineer Intern</strong> on the Azure Networking team.
-
-I'm excited to announce that I'll be joining <strong>Centene Corporation</strong> in <strong>Fall 2025</strong> as a <strong>Cloud ML Engineer Intern</strong>! 🎊 I'm eager to learn about the managed care industry and contribute to projects that support their mission of transforming community health.
-</p>
-
-<p align="center">My journey from biochemistry research and network engineering to advanced ML applications has equipped me to tackle complex challenges in today's tech landscape. I'm driven to leverage data and automation to create robust, efficient, and secure solutions.</p>
+My background spans bioinformatics research, network engineering, and now MLOps/cloud infrastructure. These experiences have shown me how much networking principles apply to scaling AI systems.
 
 ---
 
-- 🔭 I’m currently working on **Game AI - Learning more about C# and Unity**
-- 🌱 I’m currently learning more about **Advanced Networking, Applied ML (especially LLMs), and Cloud Native technologies (Azure, Kubernetes)**.
-- ⚡ Fun fact: **I love to read Psychology, Sociology, and Philosophy books in my free time.**
+### Currently
+
+- **Cloud ML Engineer Intern @ Centene Corporation** — Deploying open-source LLMs on GPUs and building an end-to-end multi-model evaluation system to categorize and rank models
+- Learning more about **C++**, **inference optimization**, **networking** and **HPC**
+
+### Previously
+
+- **Software Engineer Intern @ Microsoft** — Infrastructure automation for network device compliance
+- **Network Engineer @ Vigitron** — Built foundation in networking fundamentals, hardware (switches/cabling/routers), and automation
+- **Bioinformatics Researcher @ UCSD Gleeson Lab** — Data pipelines for somatic structural variation detection
 
 ---
 
-### 💡 Core Focus & Interests
+### Featured Projects
 
-* 🧠 **Machine Learning & AI:** Developing and deploying ML models (NLP, LLMs, predictive analytics) to solve real-world problems, with a keen interest in MLOps.
-* ☁️ **Cloud Engineering & Networking:** Designing, deploying, and managing scalable and secure cloud infrastructure and network solutions (particularly with Azure and AWS).
-* ⚙️ **Automation & DevOps:** Engineering automated solutions for infrastructure, security processes, and CI/CD pipelines to boost efficiency and reliability.
+**ConquestFour** — *2nd Place, Qualcomm & Microsoft On-Device AI Hackathon*  
+LLM-powered Connect Four using Mistral-7B (4-bit quantized). Implemented Minimax with Alpha-Beta pruning, Z3 validation, and OpenAI Whisper for speech-to-text. Optimized with ONNX Runtime for NPU execution.
 
----
-
-### 💼 Experience Highlights
-
-* **Cloud Machine Learning Engineer Intern @ Centene Corporation (Currently Fall 2025):**
-* **Software Engineer Intern @ Microsoft (Summer 2025):**
-    * Engineered a system to automate configuration management achieving a 25% reduction in incident response time.
-    * Developed an automated YAML workflow to push configuration changes to devices effectively eliminating 90% of manual work.
-* **Lead Machine Learning Researcher @ Northeastern University (Dr. Yifan Hu):**
-    * Achieved high accuracy (90% gender, 98.7% ethnicity) in demographic prediction using GPT-4, XGBoost, LSTM models.
-    * Improved LLM prediction accuracy by >10% via optimized prompt engineering and automated web crawlers.
-* **Network Engineer @ Vigitron Inc.:**
-    * Reduced manual testing by 20% by automating L2/L3 network security validation pipelines (Splunk, Wireshark).
-    * Improved pre-emptive issue detection by 15% using Python/Bash scripts (Scikit-learn).
-* **Data Intern @ San Diego State University (Dr. Alex Yao):**
-    * Enhanced recommendation model accuracy by 12% (PyTorch, MongoDB).
-    * Scaled ML model deployment using AWS Lambda, Kubernetes; set up CI/CD pipelines (Jenkins, Docker).
-* **Machine Learning Researcher Intern @ UC San Diego (Gleeson Lab):**
-    * Streamlined bioinformatics data processing by 50% (Bash, C++, SQL).
+**Semantic Sounds** — *Personalized Music Recommender*  
+Semantic recommender using SHAP-selected features, sBERT embeddings, and HDBSCAN clustering (Silhouette: 0.7464). Processed 60k+ Spotify entries.
 
 ---
 
-### 💡 Featured Projects
+### Tech
 
-* 🏆 **ConquestFour (On-Device AI Game) - *2nd Place, Qualcomm & Microsoft Hackathon***:
-    * LLM-powered (Mistral-7B quantized) Connect Four. Implemented Minimax, Z3 validation, OpenAI Whisper.
-    * Optimized with NPU-acceleration, reducing processing delay by 60%.
-* 🎶 **Semantic Sounds (Personalized Music Recommender):**
-    * Music recommender using SHAP, sBERT, HDBSCAN (Silhouette: 0.7464).
-    * Preprocessed 60k+ Spotify entries; Flask/Ngrok demo.
-
----
-
-### 🏅 Certifications
-
-* **Azure Fundamentals** - *Completed May 2025*
-* **Google Cyber Security Certificate** (Linux, MySQL, and Python hands-on labs) - *Completed Nov 2024*
+**Languages:** Python, Java, C++, SQL, Bash, YAML, KQL  
+**ML/Infra:** MLflow, Databricks, PyTorch, Spark, ONNX, LLM Deployment & Evaluation  
+**Cloud/DevOps:** Azure, AWS, Docker, Kubernetes, Jenkins, Git, CI/CD  
+**Databases:** MongoDB, Postgres, Redis, Delta Lake  
+**Networking:** TCP/IP, VLANs, DHCP, ACLs, L2/L3 diagnostics
 
 ---
 
-### 🌱 Currently Learning & Future Goals
+### Certifications
 
-* Deepening my expertise in **Azure cloud services and networking**.
-* Exploring advanced **network automation techniques using Python and IaC tools**.
-* Contributing to projects that bridge **AI/ML advancements with robust cloud infrastructure**.
+- **Azure Fundamentals (AZ-900)** — 2025  
+- **Google Cybersecurity Certificate** — 2024
 
 ---
 
-### 💬 Connect with me:
+### Connect
 
-I'm actively seeking full-time opportunities and internships until my graduation in Dec 2026 in Cloud Engineering, ML Engineering, or Network Automation roles. Let's discuss how I can contribute to your team!
+Seeking **full-time opportunities** (graduating in 2026) in ML Infrastructure, MLOps, Cloud Engineering, or roles where networking and AI converge.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/an-q-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: an-q-nguyen" height="30" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:aqnguyen96@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email: aqnguyen96@gmail.com" height="30" width="40" style="filter: invert(0.1) sepia(1) hue-rotate(200deg) saturate(5) brightness(0.9);" /></a>
-</p>
-
-<p align="left">
-  <strong>Email:</strong> aqnguyen96@gmail.com
-</p>
+[LinkedIn](https://linkedin.com/in/an-q-nguyen) | aqnguyen96@gmail.com
