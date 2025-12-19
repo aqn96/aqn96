@@ -1,5 +1,4 @@
-# Hi, I'm An Nguyen but you can call me Andrew
-
+# Hi, I'm An Nguyen (Andrew)
 **Master's student in Computer Science @ Northeastern University**
 
 I'm passionate about the intersection of **networking and machine learning infrastructure** particularly in areas of distributed inference, model serving, and scalable AI systems. As a first-generation college student, my journey into tech has followed an unconventional path, transitioning from biochemistry to computer science.
