@@ -1,4 +1,4 @@
-# Hi, I'm An Nguyen
+# Hi, I'm An Nguyen but you can call me Andrew
 
 **Master's student in Computer Science @ Northeastern University**
 
