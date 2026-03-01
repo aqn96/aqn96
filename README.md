@@ -9,7 +9,7 @@ My background spans bioinformatics research, network engineering, and now MLOps/
 
 ### Currently
 
-- **Cloud ML Engineer Intern @ Centene Corporation** — Deploying open-source LLMs on GPUs and building an end-to-end multi-model evaluation system to categorize and rank models
+- **Cloud ML Engineer Intern @ Centene Corporation** — Deploying open-source LLMs on GPUs and building an end-to-end multi-model evaluation system to categorize and rank models. Expanded this application to now have chunking + embedding recommendations/analysis. 
 - Learning more about **C++**, **inference optimization**, **networking** and **HPC**
 
 ### Previously
