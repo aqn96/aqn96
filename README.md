@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Networking+%2B+AI+Infrastructure+Engineer;Building+the+Systems+That+Power+AI+at+Scale;From+Packets+to+Pipelines;First-Gen+Student+%7C+Unconventional+Path" alt="Typing SVG" />
 
-**M.S. Computer Science @ Northeastern University (4.0 GPA)**
+**M.S. Computer Science @ Northeastern University**
+
+*Building the "plumbing" that allows large-scale models to run efficiently on high-speed fabrics.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/an-q-nguyen/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aqnguyen96@gmail.com)
@@ -25,7 +27,7 @@ class AndrewNguyen:
         self.name = "An Nguyen (Andrew)"
         self.role = "ML Infrastructure & Network Engineer"
         self.education = {
-            "grad": "MS Computer Science @ Northeastern University (4.0 GPA)",
+            "grad": "MS Computer Science @ Northeastern University",
             "undergrad": "BS Biochemistry & Cell Biology @ UC San Diego",
             "graduation": "August 2026"
         }
@@ -36,9 +38,12 @@ class AndrewNguyen:
         return {
             "Centene":    "LLM evaluation pipelines, RAG benchmarking, GPU model deployment",
             "Microsoft":  "Network config drift detection & automated remediation at WAN scale",
+            "Vigitron":   "Hands-on networking hardware, L2/L3 diagnostics, protocol automation",
             "SDSU":       "ML model optimization, cloud deployment, CI/CD pipelines",
-            "UCSD":       "Bioinformatics research — genomic data pipelines"
+            "UCSD":       "Bioinformatics research, genomic data pipelines (Gleeson Lab)"
         }
+        # Each step has taken me deeper in the stack,
+        # from applications, to automation, to the infrastructure layer itself.
 
     def get_interests(self):
         return [
@@ -47,6 +52,13 @@ class AndrewNguyen:
             "ML infrastructure & evaluation systems",
             "HPC systems & supercomputer interconnects"
         ]
+
+    def outside_the_terminal(self):
+        return {
+            "racket_sports": ["Tennis", "Badminton", "Table Tennis"],
+            "reading": "Philosophy & Psychology",
+            "fun_fact": "Former biochemistry major — traded pipettes for pipelines"
+        }
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -125,6 +137,26 @@ ML & Cloud Engineering:
   - Deployed via AWS Lambda + Kubernetes
   - Redis caching for optimized data retrieval
   - CI/CD pipelines with Jenkins and Docker
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### **Vigitron** | *Network Engineer* | `Hardware & Networking`
+
+<table>
+<tr>
+<td>
+
+```yaml
+Network Fundamentals:
+  - Hands-on with switches, cabling, routers
+  - L2/L3 diagnostics and troubleshooting
+  - Protocol automation
+  - Built foundation in networking from the physical layer up
 ```
 
 </td>
@@ -273,7 +305,6 @@ Local LLM-powered study tool — fast, private, no cloud dependency
 `ML Infrastructure & AI Systems` · `HPC & High-Speed Networking` · `Cloud Engineering & MLOps` · `Roles where Networking and AI converge`
 
 *"The bottleneck for scaling AI isn't the models — it's the infrastructure underneath."*
-
 
 <a href="https://www.linkedin.com/in/an-q-nguyen/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
