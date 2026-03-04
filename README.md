@@ -275,7 +275,7 @@ Local LLM-powered study tool — fast, private, no cloud dependency
 *"The bottleneck for scaling AI isn't the models — it's the infrastructure underneath."*
 
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/an-q-nguyen/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
 </a>
 <a href="mailto:aqnguyen96@gmail.com">
