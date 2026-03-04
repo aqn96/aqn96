@@ -6,10 +6,10 @@
 
 **M.S. Computer Science @ Northeastern University (4.0 GPA)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/an-q-nguyen/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aqnguyen96@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/aqn96?logo=GitHub&style=for-the-badge&color=2b3137&labelColor=2b3137)](https://github.com/aqn96)
-[![Publications](https://img.shields.io/badge/Publications-100000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/yourprofile)
+[![Publications](https://img.shields.io/badge/Publications-100000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=iSDw7Z8AAAAJ&hl=en)
 
 </div>
 
