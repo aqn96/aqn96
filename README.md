@@ -268,17 +268,12 @@ Local LLM-powered study tool — fast, private, no cloud dependency
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00D4AA&center=true&vCenter=true&width=700&lines=Exploring+HPC+%26+AI+Infrastructure+at+Scale;Bridging+Networking+%26+Machine+Learning;From+Packets+to+Petaflops;Always+going+deeper+in+the+stack" alt="Next SVG" />
 
-```
-Seeking full-time opportunities (graduating Aug 2026) in:
+**Seeking full-time opportunities (graduating Aug 2026) in:**
 
-    ML Infrastructure & AI Systems
-    HPC & High-Speed Networking  
-    Cloud Engineering & MLOps
-    Roles where Networking and AI converge
+`ML Infrastructure & AI Systems` · `HPC & High-Speed Networking` · `Cloud Engineering & MLOps` · `Roles where Networking and AI converge`
 
-"The bottleneck for scaling AI isn't the models
- — it's the infrastructure underneath."
-```
+*"The bottleneck for scaling AI isn't the models — it's the infrastructure underneath."*
+
 
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
