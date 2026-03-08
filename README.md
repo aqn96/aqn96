@@ -128,10 +128,10 @@ class AndrewNguyen:
 
 | Project | What & Why |
 |---------|-----------|
-| [**p4-learning-gsoc2026**](https://github.com/aqn96/p4-learning-gsoc2026) | Programmable data-plane networking with P4 — GSoC 2026 contributor track |
-| [**llm-conquestfour**](https://github.com/aqn96/llm-conquestfour) | On-device LLM game (Mistral-7B quantized, NPU execution) — 🥈 2nd place, Qualcomm × Microsoft Hackathon |
-| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on Raspberry Pi 5 — Ollama + Gemini, managed via Tailscale |
-| [**rcs-wisdom-engine**](https://github.com/aqn96/rcs-wisdom-engine) | Cross-platform automated content delivery engine — local-first scheduling, REST APIs |
+| [**p4-learning-gsoc2026**](https://github.com/aqn96/p4-learning-gsoc2026) | In-network ML on programmable switches (P4) — GSoC 2026 contributor with P4 Language Consortium |
+| [**smart-home-light**](https://github.com/aqn96/smart-home-light) | DIY IoT security system on RPi5 — PIR motion detection, live MJPEG streaming, WebSocket alerts, JWT auth, all local |
+| [**llm-conquestfour**](https://github.com/aqn96/llm-conquestfour) | On-device LLM game (Mistral-7B quantized → NPU via ONNX INT4) — 🥈 2nd / 28 teams, Qualcomm × Microsoft Hackathon |
+| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on Raspberry Pi 5 — multi-provider failover, Tailscale mesh, cloud-grounded web search |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
