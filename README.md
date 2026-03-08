@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Networking+%2B+AI+Infrastructure+Engineer;Building+the+Systems+That+Power+AI+at+Scale;From+Packets+to+Pipelines;First-Gen+Student+%7C+Unconventional+Path" alt="Typing SVG" />
 
-**M.S. Computer Science @ Northeastern University (Aug 2026)**
+**M.S. Computer Science @ Northeastern University (Dec 2026)**
 
 *The bottleneck for scaling AI isn't the models — it's the infrastructure underneath.*
 
@@ -148,7 +148,7 @@ class AndrewNguyen:
 
 <div align="center">
 
-**Seeking full-time roles (graduating Aug 2026) in ML Infrastructure, HPC/Networking, and Cloud/MLOps.**
+**Seeking roles (graduating Dec 2026) in ML Infrastructure, HPC/Networking, and Cloud/MLOps.**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an-q-nguyen/)
 [![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqnguyen96@gmail.com)
