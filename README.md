@@ -126,35 +126,12 @@ class AndrewNguyen:
 
 ## Featured Projects
 
-<div align="center">
-
-### [ConquestFour](https://github.com/aqn96/llm-conquestfour) — *2nd Place, Qualcomm & Microsoft On-Device AI Hackathon*
-<img src="https://img.shields.io/badge/Award-2nd_Place_out_of_28_Teams-gold?style=flat-square">
-
-LLM-powered Connect Four (Mistral-7B, 4-bit quantized) with minimax + alpha-beta pruning.
-OpenAI Whisper for speech input (75% interaction improvement), ONNX INT4 for NPU execution (60% latency reduction).
-
----
-
-### [rpi5-openclaw-assistant](https://github.com/aqn96/rpi5-openclaw-assistant)
-<img src="https://img.shields.io/badge/Status-Running_24%2F7-success?style=flat-square">
-
-24/7 AI personal assistant on Raspberry Pi 5. Powered by OpenClaw, Ollama, and Gemini. Managed via Tailscale + Telegram.
-
----
-
-### [SemanticSounds](https://github.com/aqn96/SemanticSounds) — *Personalized Music Recommender*
-
-SHAP-selected features + sBERT embeddings + HDBSCAN clustering. Silhouette score: 0.7464 across 60K+ Spotify entries.
-
----
-
-### [QuickSnap-Study-Tool](https://github.com/aqn96/QuickSnap-Study-Tool)
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
-
-Local LLM-powered study tool — fast, private, no cloud dependency.
-
-</div>
+| Project | What & Why |
+|---------|-----------|
+| [**p4-learning-gsoc2026**](https://github.com/aqn96/p4-learning-gsoc2026) | Programmable data-plane networking with P4 — GSoC 2026 contributor track |
+| [**llm-conquestfour**](https://github.com/aqn96/llm-conquestfour) | On-device LLM game (Mistral-7B quantized, NPU execution) — 🥈 2nd place, Qualcomm × Microsoft Hackathon |
+| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on Raspberry Pi 5 — Ollama + Gemini, managed via Tailscale |
+| [**rcs-wisdom-engine**](https://github.com/aqn96/rcs-wisdom-engine) | Cross-platform automated content delivery engine — local-first scheduling, REST APIs |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
