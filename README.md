@@ -30,7 +30,7 @@ class AndrewNguyen:
             "Distributed inference & model serving at scale",
             "ML infrastructure & evaluation systems"
         ]
-        self.fun_fact   = "Former biochemistry major — traded pipettes for pipelines"
+        self.fun_fact   = "Likes to read philosophy/psychology books and plays tennis/badminton :)"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
