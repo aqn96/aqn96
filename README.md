@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aqnguyen96@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/aqn96?logo=GitHub&style=for-the-badge&color=2b3137&labelColor=2b3137)](https://github.com/aqn96)
 [![Publications](https://img.shields.io/badge/Publications-100000?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=iSDw7Z8AAAAJ&hl=en)
+[![Resume](https://github.com/aqn96/Resume/blob/master/andrew_nguyen_intern.pdf)
 
 </div>
 
