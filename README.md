@@ -2,7 +2,7 @@
 
 # Hi, I'm **An Nguyen (Andrew)**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Networking+%2B+AI+Infrastructure+Engineer;Building+the+Systems+That+Power+AI+at+Scale;From+Packets+to+Pipelines;First-Gen+Student+%7C+Unconventional+Path" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Networking+%2B+AI+Infrastructure+Engineer;Building+the+Systems+That+Power+AI+at+Scale;GSoC+2026+Contributor+%7C+P4+Language+Consortium;Edge+AI+on+RPi5+%7C+In-Network+ML+on+P4;First-Gen+Student+%7C+Unconventional+Path" alt="Typing SVG" />
 
 **M.S. Computer Science @ Northeastern University (Dec 2026)**
 
@@ -63,6 +63,7 @@ class AndrewNguyen:
 ![OSPF/BGP](https://img.shields.io/badge/OSPF%2FBGP-0A0A0A?style=for-the-badge&logoColor=white)
 ![ACLs](https://img.shields.io/badge/ACLs-0A0A0A?style=for-the-badge&logoColor=white)
 ![Linux Networking](https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![P4](https://img.shields.io/badge/P4_Language-0A0A0A?style=for-the-badge&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -71,6 +72,8 @@ class AndrewNguyen:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -129,10 +132,10 @@ class AndrewNguyen:
 
 | Project | What & Why |
 |---------|-----------|
-| [**p4-learning-gsoc2026**](https://github.com/aqn96/p4-learning-gsoc2026) | In-network ML on programmable switches (P4) — GSoC 2026 contributor with P4 Language Consortium |
-| [**smart-home-security-system**](https://github.com/aqn96/smart-home-light) | DIY IoT security system on RPi5 — PIR motion detection, live MJPEG streaming, WebSocket alerts, JWT auth, all local |
-| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on Raspberry Pi 5 — multi-provider failover, Tailscale mesh, cloud-grounded web search |
-| [**llm-conquestfour**](https://github.com/aqn96/llm-conquestfour) | On-device LLM game (Mistral-7B quantized → NPU via ONNX INT4) — 🥈 2nd / 28 teams, Qualcomm × Microsoft Hackathon |
+| [**p4-learning-gsoc2026**](https://github.com/aqn96/p4-learning-gsoc2026) | In-network ML on programmable switches — Planter (SIGCOMM) decision trees compiled to P4, PTF-tested CI; GSoC 2026 w/ P4 Language Consortium |
+| [**smart-home-security-system**](https://github.com/aqn96/smart-home-security-system) | Dual-mode IoT security on RPi5 — PIR motion detection, MJPEG live stream, WebSocket alerts, JWT auth; fully local, no cloud |
+| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on RPi5 — Claude Code CLI accessible via Telegram, multi-provider LLM failover, Tailscale mesh for remote access anywhere |
+| [**llm-conquestfour**](https://github.com/aqn96/llm-conquestfour) | On-device LLM Connect Four (Mistral-7B → NPU via ONNX INT4) — 🥈 2nd + People's Choice / 28 teams, Qualcomm × Microsoft × NEU Hackathon |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
