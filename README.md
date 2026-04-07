@@ -134,7 +134,7 @@ class AndrewNguyen:
 |---------|-----------|
 | [**p4-learning-gsoc2026**](https://github.com/aqn96/p4-learning-gsoc2026) | In-network ML on programmable switches — Planter (SIGCOMM) decision trees compiled to P4, PTF-tested CI; GSoC 2026 w/ P4 Language Consortium |
 | [**smart-home-security-system**](https://github.com/aqn96/smart-home-security-system) | Dual-mode IoT security on RPi5 — PIR motion detection, MJPEG live stream, WebSocket alerts, JWT auth; fully local, no cloud |
-| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on RPi5 — Claude Code CLI accessible via Telegram, multi-provider LLM failover, Tailscale mesh for remote access anywhere |
+| [**rpi5-openclaw-assistant**](https://github.com/aqn96/rpi5-openclaw-assistant) | 24/7 edge AI assistant on RPi5 — two Telegram bots: Claudius (free, Qwen3:8b on Mac via Ollama, web search) + Apollius (Claude Code CLI); Telegram → Pi → Mac routing, Tailscale mesh |
 | [**llm-conquestfour**](https://github.com/aqn96/llm-conquestfour) | On-device LLM Connect Four — Apple Silicon optimized (Ollama + llama.cpp + Metal GPU, Phi-3-mini/Mistral-7B), narrative director arc control — 🥈 2nd + People's Choice / 28 teams, Qualcomm × Microsoft × NEU Hackathon |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
