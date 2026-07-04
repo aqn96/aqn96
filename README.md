@@ -90,7 +90,8 @@ class AndrewNguyen:
 <details>
 <summary><b>Hashicorp, an IBM Company</b> · Software Engineer Intern · <code>June 2026 – present</code></summary>
 <br>
-<details>
+
+</details>
     
 <details>
 <summary><b>Centene Corporation</b> · ML Engineer Intern · <code>Sep 2025 – April 2026</code></summary>
