@@ -88,7 +88,11 @@ class AndrewNguyen:
 ## Experience
 
 <details>
-<summary><b>Centene Corporation</b> · ML Engineer Intern · <code>Sep 2025 – Present</code></summary>
+<summary><b>Hashicorp, an IBM Company</b> · Software Engineer Intern · <code>June 2026 – present</code></summary>
+<br>
+
+<details>
+<summary><b>Centene Corporation</b> · ML Engineer Intern · <code>Sep 2025 – April 2026</code></summary>
 <br>
 
 - Built end-to-end LLM evaluation pipeline (MLflow 3.4 + Spark SQL) — projected **~$15K/month savings** via Streamlit model recommender
